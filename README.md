@@ -27,7 +27,7 @@
 ISC
 
 ## Technologies
-Node.js, Express.js, MongoDB, React, Heroku w/JawsDB add-on
+Node.js, Express.js, MongoDB, Mongoose, Bcrypt, React, Heroku 
 
 ## Contributors
 Stefan Podzinski
